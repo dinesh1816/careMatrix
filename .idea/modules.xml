@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/corematrix.iml" filepath="$PROJECT_DIR$/.idea/corematrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/careMatrix.iml" filepath="$PROJECT_DIR$/.idea/careMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corematrix/corematrix.iml" filepath="$PROJECT_DIR$/corematrix/corematrix.iml" />
     </modules>
   </component>
 </project>
